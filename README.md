@@ -1,13 +1,9 @@
-## Hello, I'm Mitchell Wills! 👋
+Mitchell Wills - Student at Queensland University of Technology (BRISBANE, AUSTRALIA)
 
-### About Me
-- 💼 I'm a passionate software developer with a diploma in Information Technology from Queensland University of Technology.
-- 🌐 My expertise spans across web development, networking, and software engineering.
-- 🔍 I'm deeply interested in exploring the intersection of technology and creativity to build innovative solutions.
+Passionate Devops focused software developer
 
-### Skills & Expertise
-- 💻 Proficient in Python, C, C#, JavaScript, and TypeScript.
-- 🛠️ Experienced in developing robust backend systems, crafting efficient algorithms, and building dynamic web applications.
-- 📚 Continuously learning and adapting to new technologies to stay ahead in the ever-evolving tech landscape.
+Invested understanding in AWS, typescript, powershell and AI developments
 
-I hope my projects help and/or inspire you.
+Markdown enjoyer
+
+520,887,270 Tokens used in 2025
